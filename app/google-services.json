@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961235234244",
+    "firebase_url": "https://fitcalorie-607fe.firebaseio.com",
+    "project_id": "fitcalorie-607fe",
+    "storage_bucket": "fitcalorie-607fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961235234244:android:3c09ed5df523b7a4b78891",
+        "android_client_info": {
+          "package_name": "com.inti.student.fitcalorie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961235234244-qeflahskforako3q0ql9o41dq1mn6k3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inti.student.fitcalorie",
+            "certificate_hash": "94018f219aba837f3a7ddeb82e6e9e2ff395a3a0"
+          }
+        },
+        {
+          "client_id": "961235234244-alrm78h9s1e9t5acifkkg40i6ts7dl8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvAfSAhTphcodK3SFEorJAl5bP2cHNFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961235234244-alrm78h9s1e9t5acifkkg40i6ts7dl8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
